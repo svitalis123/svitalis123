@@ -1,5 +1,9 @@
-### Hi there 👋
+## Hi I am Vitalis Mutwiri 👋 ![](./assets/116410-hello.gif)
 
+### Remote Full-Stack software developer Ready for new opportunities ![](./assets/61557-sightseeing-tour.gif)
+
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vitalismutwiri" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/vitalismutwiri?trk=profile-badge">Vitalis Mutwiri</a></div>
+              
 <!--
 **svitalis123/svitalis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
