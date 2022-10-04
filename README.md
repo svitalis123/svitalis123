@@ -19,7 +19,11 @@
 
 <img align='center' src="./assets/Vitalis Mutwiri banner.png" width="100%" />
 
+<div align='center' >
+
 ## More about me  <img src="./assets/more.jpg" width="80"/>
+
+</div>
 
 ```javascript
 const VitalisMutwiri = new Promise((resolve, reject) => {
