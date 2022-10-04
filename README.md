@@ -1,16 +1,15 @@
-<img align='center' src="./assets/116410-hello.gif" width="70"/>
+<div align='center'><img src="./assets/116410-hello.gif" width="70"/></div>
 <h2 align='center'>Hi, I am Vitalis Mutwiri ! </h2>  
 
 ***
 
-<h3 align='center'><em>Remote Full-Stack software developer Ready for new opportunities</em></h3><img align ='center' src="./assets/61557-sightseeing-tour.gif" width="70"/>
+<h3 align='center'><em>Remote Full-Stack software developer Ready for new opportunities</em> <img src="./assets/61557-sightseeing-tour.gif" width="70"/></h3>
 
 <p align='center'>Let's connect and chat! Open to anything under the sun</p>
 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Vitalis%20Mutwiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/vitalismutwiri/)](www.linkedin.com/in/vitalismutwiri/)
-
 [![Twitter Badge](https://img.shields.io/badge/-@WilsonVitalis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WilsonVitalis)](https://twitter.com/WilsonVitalis)
 
 
