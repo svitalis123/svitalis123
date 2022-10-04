@@ -19,6 +19,7 @@
 
 <img align='center' src="./assets/Vitalis Mutwiri banner.png" width="100%" />
 
+## More about me <iframe src="https://giphy.com/embed/ToMjGprvNrmZXDMZJQY" width="480" height="137" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sebasandclim-ToMjGprvNrmZXDMZJQY">via GIPHY</a></p>
 
 ```javascript
 const VitalisMutwiri = new Promise((resolve, reject) => {
@@ -32,6 +33,8 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
 })
 
 ```
+
+***
 
 [![Vitalis GitHub stats](https://github-readme-stats.vercel.app/api?username=svitalis123&count_private=true&show_icons=true&theme=radical)](https://github.com/svitalis123/github-readme-stats)
 <!--
