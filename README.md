@@ -1,7 +1,7 @@
 <div align='center'><img src="./assets/116410-hello.gif" width="70"/></div>
 <h2 align='center'>Hi, I am Vitalis Mutwiri ! </h2>  
 
-<h3 align='center'><em>Remote Full-Stack software developer Ready for new opportunities</em> <img src="./assets/61557-sightseeing-tour.gif" width="70"/></h3>
+<h3 align='center'><em>Remote Full-Stack software developer open for new opportunities</em> <img src="./assets/61557-sightseeing-tour.gif" width="70"/></h3>
 
 ***
 
@@ -18,7 +18,22 @@
 ***
 
 <img align='center' src="./assets/Vitalis Mutwiri banner.png" width="100%" />
-              
+
+
+```javascript
+const VitalisMutwiri = new Promise((resolve, reject) => {
+  resolve({
+    lookingFor : 'Full-stack developer' || 'Front-end developer',
+    stack : [JavaScript, MERN, Ruby, Rails, HTML/CSS, SCSS, BOOTSTRAP, React JS, Next JS, Redux],
+    askMeAbout : [sound engineering, mentoring, karate, salsa],
+    currentlyStuding: 'Microverse - an intense remote software engineering school, which incorparates 8 hrs learning every day, with collaboration among cross-curtural peers and working on real-world landing pages and e-commerce applications',
+    funFacts : ['devops savvy', 'MERN enthusiast', 'completed fully functional e-commerce applications such as Amazon', 'ready to wire up to the right offer'],
+  })
+})
+
+```
+
+[![Vitalis GitHub stats](https://github-readme-stats.vercel.app/api?username=svitalis123&count_private=true&show_icons=true&theme=radical)](https://github.com/svitalis123/github-readme-stats)
 <!--
 **svitalis123/svitalis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
