@@ -1,8 +1,12 @@
-## Hi I am Vitalis Mutwiri 👋 ![](./assets/116410-hello.gif)
+<h2>Hi, I am Vitalis Mutwiri !👋 <img src="./assets/116410-hello.gif" width="70"/></h2>  
 
-### Remote Full-Stack software developer Ready for new opportunities ![](./assets/61557-sightseeing-tour.gif)
+<h3><em>Remote Full-Stack software developer Ready for new opportunities</em> <img src="./assets/61557-sightseeing-tour.gif" width="70"/></h3>
 
+<p>Let's connect and chat! Open to anything under the sun</p>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="vitalismutwiri" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://ke.linkedin.com/in/vitalismutwiri?trk=profile-badge">Vitalis Mutwiri</a></div>
+              
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+
               
 <!--
 **svitalis123/svitalis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
