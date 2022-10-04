@@ -19,7 +19,7 @@
 
 <img align='center' src="./assets/Vitalis Mutwiri banner.png" width="100%" />
 
-## More about me <img src="./assets/more.jpg" width="80"/>
+## More about me  <img src="./assets/more.jpg" width="80"/>
 
 ```javascript
 const VitalisMutwiri = new Promise((resolve, reject) => {
@@ -30,6 +30,8 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
     currentlyStuding: 'Microverse - an intense remote software engineering school, which incorparates 8 hrs learning every day, with collaboration among cross-curtural peers and working on real-world landing pages and e-commerce applications',
     funFacts : ['devops savvy', 'MERN enthusiast', 'completed fully functional e-commerce applications such as Amazon', 'ready to wire up to the right offer'],
   })
+
+  reject("No Regret");
 })
 
 ```
@@ -37,6 +39,10 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
 ***
 
 [![Vitalis GitHub stats](https://github-readme-stats.vercel.app/api?username=svitalis123&count_private=true&show_icons=true&theme=radical)](https://github.com/svitalis123/github-readme-stats)
+
+---
+
+<p>You can check out my portfolio <a href="https://relaxed-crisp-41566e.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 <!--
 **svitalis123/svitalis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
