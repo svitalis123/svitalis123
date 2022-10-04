@@ -1,8 +1,9 @@
-<h2 align='center'>Hi, I am Vitalis Mutwiri ! </h2>  <img align='right' src="./assets/116410-hello.gif" width="70"/>
+<img align='center' src="./assets/116410-hello.gif" width="70"/>
+<h2 align='center'>Hi, I am Vitalis Mutwiri ! </h2>  
 
 ***
 
-<h3 align='center'><em>Remote Full-Stack software developer Ready for new opportunities</em> <img src="./assets/61557-sightseeing-tour.gif" width="70"/></h3>
+<h3 align='center'><em>Remote Full-Stack software developer Ready for new opportunities</em></h3><img src="./assets/61557-sightseeing-tour.gif" width="70"/>
 
 <p align='center'>Let's connect and chat! Open to anything under the sun</p>
 
