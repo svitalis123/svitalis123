@@ -19,9 +19,7 @@
 
 <img align='center' src="./assets/Vitalis Mutwiri banner.png" width="100%" />
 
-## More about me 
-
-<iframe src="https://giphy.com/embed/ToMjGprvNrmZXDMZJQY" width="480" height="137" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/sebasandclim-ToMjGprvNrmZXDMZJQY">via GIPHY</a></p>
+## More about me <img align='right' src="https://giphy.com/embed/ToMjGprvNrmZXDMZJQY" />
 
 ```javascript
 const VitalisMutwiri = new Promise((resolve, reject) => {
