@@ -17,7 +17,7 @@
 
 ***
 
-<img src="./assets/Vitalis Mutwiri banner.png" />
+<img src="./assets/Vitalis Mutwiri banner.png" width="300" />
               
 <!--
 **svitalis123/svitalis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
