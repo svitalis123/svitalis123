@@ -9,9 +9,9 @@
 
 <div align='center'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Ellie%20Villalejos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellievillalejos/)](https://www.linkedin.com/in/ellievillalejos/)
+[![Linkedin Badge](https://img.shields.io/badge/-Vitalis%20Mutwiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/vitalismutwiri/)](www.linkedin.com/in/vitalismutwiri/)
 
-[![Twitter Badge](https://img.shields.io/badge/-@miss_elliev_-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WilsonVitalis)](https://twitter.com/WilsonVitalis)
+[![Twitter Badge](https://img.shields.io/badge/-@WilsonVitalis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WilsonVitalis)](https://twitter.com/WilsonVitalis)
 
 </div>
 
