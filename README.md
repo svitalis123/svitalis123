@@ -17,13 +17,14 @@
 
 ***
 
-<img align='right' src="./assets/animation_500_l8ybfdrr.gif" width="40%" />
 
 <div align='center' >
 
 ## More about me  <img src="./assets/animation_500_l8yalyfv.gif" width="80"/>
 
 </div>
+
+<img align='right' src="./assets/animation_500_l8ybfdrr.gif" width="100" />
 
 ```javascript
 const VitalisMutwiri = new Promise((resolve, reject) => {
