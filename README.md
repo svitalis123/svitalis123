@@ -17,7 +17,7 @@
 
 ***
 
-<img align='right' src="./assets/banner.gif" width="40%" />
+<img align='right' src="assets/animation_500_l8ybfdrr.gif" width="40%" />
 
 <div align='center' >
 
