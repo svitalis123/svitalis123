@@ -1,5 +1,5 @@
 <div ><img align='right' src="./assets/animation_500_l8ybfdrr.gif" width="200" /></div>
-<h2 align='center'>Hi,<img src="./assets/animation_500_l8y99l6a.gif" width="70"/> I am Vitalis Mutwiri ! </h2>  
+<h2 align='center'>Hi,<img src="./assets/animation_500_l8y99l6a.gif" width="100"/> I am Vitalis Mutwiri ! </h2>  
 
 <h3 align='center'><em>Remote Full-Stack software developer open for new opportunities</em> <img src="./assets/animation_500_l8y9n2xv.gif" width="70"/></h3>
 
