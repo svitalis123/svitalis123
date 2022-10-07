@@ -1,4 +1,4 @@
-<div align='center'></div>
+<div ><img align='right' src="./assets/animation_500_l8ybfdrr.gif" width="200" /></div>
 <h2 align='center'>Hi,<img src="./assets/animation_500_l8y99l6a.gif" width="70"/> I am Vitalis Mutwiri ! </h2>  
 
 <h3 align='center'><em>Remote Full-Stack software developer open for new opportunities</em> <img src="./assets/animation_500_l8y9n2xv.gif" width="70"/></h3>
@@ -24,7 +24,6 @@
 
 </div>
 
-<img align='right' src="./assets/animation_500_l8ybfdrr.gif" width="100" />
 
 ```javascript
 const VitalisMutwiri = new Promise((resolve, reject) => {
@@ -32,8 +31,15 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
     lookingFor : 'Full-stack developer' || 'Front-end developer',
     stack : [JavaScript, MERN, Ruby, Rails, HTML/CSS, SCSS, BOOTSTRAP, React JS, Next JS, Redux],
     askMeAbout : [sound engineering, mentoring, karate, salsa],
-    currentlyStuding: 'Microverse - an intense remote software engineering school, which incorparates 8 hrs learning every day, with collaboration among cross-curtural peers and working on real-world landing pages and e-commerce applications',
-    funFacts : ['devops savvy', 'MERN enthusiast', 'completed fully functional e-commerce applications such as Amazon', 'ready to wire up to the right offer'],
+    currentlyStuding: 'Microverse - an intense remote software engineering school,
+    which incorparates 8 hrs learning every day,
+    with collaboration among cross-curtural peers and working on real-world landing pages and e-commerce applications',
+    funFacts : [
+    'devops savvy',
+    'MERN enthusiast',
+    'completed fully functional e-commerce applications such as Amazon',
+    'ready to wire up to the right offer'
+    ],
   })
 
   reject("No Regret");
