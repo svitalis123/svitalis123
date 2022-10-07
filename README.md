@@ -3,6 +3,7 @@
 
 <h3 align='center'><em>Remote Full-Stack software developer open for new opportunities</em> <img src="./assets/animation_500_l8y9n2xv.gif" width="70"/></h3>
 
+
 ***
 
 <p align='center'>Let's connect and chat! Open to anything under the sun</p>
@@ -49,10 +50,22 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
 
 ***
 
+<div align="center">
+
 [![Vitalis GitHub stats](https://github-readme-stats.vercel.app/api?username=svitalis123&count_private=true&show_icons=true&theme=radical)](https://github.com/svitalis123/github-readme-stats)
+
+</div>
 
 ---
 
+<div align="center">
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=svitalis123&theme=highcontrast)](https://git.io/streak-stats)
+
+</div>
+
+---
+ 
 <p>You can check out my portfolio <a href="https://relaxed-crisp-41566e.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 <!--
 **svitalis123/svitalis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
