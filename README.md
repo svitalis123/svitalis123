@@ -17,11 +17,11 @@
 
 ***
 
-<img align='right' src="./assets/Vitalis Mutwiri banner.png" width="70%" />
+<img align='right' src="./assets/banner.gif" width="40%" />
 
 <div align='center' >
 
-## More about me  <img src="./assets/more.jpg" width="80"/>
+## More about me  <img src="./assets/animation_500_l8yalyfv.gif" width="80"/>
 
 </div>
 
