@@ -1,7 +1,7 @@
-<div align='center'><img src="./assets/116410-hello.gif" width="70"/></div>
-<h2 align='center'>Hi, I am Vitalis Mutwiri ! </h2>  
+<div align='center'></div>
+<h2 align='center'>Hi,<img src="./assets/animation_500_l8y99l6a.gif" width="70"/> I am Vitalis Mutwiri ! </h2>  
 
-<h3 align='center'><em>Remote Full-Stack software developer open for new opportunities</em> <img src="./assets/61557-sightseeing-tour.gif" width="70"/></h3>
+<h3 align='center'><em>Remote Full-Stack software developer open for new opportunities</em> <img src="./assets/animation_500_l8y9n2xv.gif" width="70"/></h3>
 
 ***
 
@@ -17,7 +17,7 @@
 
 ***
 
-<img align='center' src="./assets/Vitalis Mutwiri banner.png" width="100%" />
+<img align='right' src="./assets/Vitalis Mutwiri banner.png" width="70%" />
 
 <div align='center' >
 
@@ -49,9 +49,7 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
 <p>You can check out my portfolio <a href="https://relaxed-crisp-41566e.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 <!--
 **svitalis123/svitalis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
