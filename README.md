@@ -1,7 +1,9 @@
 
-<h2 align='center'><img src="https://media0.giphy.com/media/26Fxy3Iz1ari8oytO/200.webp?cid=ecf05e47e682yhqx77jjij56rd5tfwszxh3yo6r7pt6n476l&rid=200.webp&ct=s" width="100"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Vitalis+Mutwiri;A+full-Stack+Software+Developer" alt="Typing SVG" /></a> </h2>  
+<h1 align='center'><img src="https://media0.giphy.com/media/26Fxy3Iz1ari8oytO/200.webp?cid=ecf05e47e682yhqx77jjij56rd5tfwszxh3yo6r7pt6n476l&rid=200.webp&ct=s" width="200"/><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Alegreya&size=50&pause=1000&width=800&height=81&lines=Hello.+I+am+Vitalis+Mutwiri+Murithi;A+Full-Stack+Software+Developer" alt="Typing SVG" /></a></h1>  
 
-
+<div align='center'>
+  <img src="https://raw.githubusercontent.com/svitalis123/svitalis123/main/ps.png" width="100%" />
+</div>
 
 <h3 align='center'><em>Remote Full-Stack software developer open for new opportunities</em> <img src="https://media2.giphy.com/media/q1G46i4qCWHrkzZVRp/200w.webp?cid=ecf05e47nstk3fsxwygz3uiv4d0wyon0324u7igqpkuie4cb&rid=200w.webp&ct=s" width="100"/></h3>
 
@@ -76,10 +78,11 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Vitalis%20Software%20engineer&fontSize=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header" />
 <!--
 **svitalis123/svitalis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
+ use in waving add to url text=Vitalis%20Software%20engineer&fontSize=10
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
