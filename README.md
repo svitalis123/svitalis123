@@ -1,11 +1,7 @@
 
 <h2 align='center'><img src="https://media0.giphy.com/media/26Fxy3Iz1ari8oytO/200.webp?cid=ecf05e47e682yhqx77jjij56rd5tfwszxh3yo6r7pt6n476l&rid=200.webp&ct=s" width="100"/> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+I+am+Vitalis+Mutwiri;A+full-Stack+Software+Developer" alt="Typing SVG" /></a> </h2>  
 
-![](https://media2.giphy.com/media/17b875GGvV9m9sLmNc/200w.webp?cid=ecf05e47ygntaeqvchx0sg9pv7dr3q15az68sr7kh5jtvod3&rid=50w.webp&ct=s)
-![](https://media4.giphy.com/media/T6a9jrPPDC43XIy4dS/200w.webp?cid=ecf05e47za0iq8yd2kujgjtwd39kklycfu2254y1wnitkb07&rid=50w.webp&ct=s)
-![](https://media4.giphy.com/media/iIGT8Y1rOYhBpdHh1C/200.webp?cid=ecf05e478rnzbeq4r4n5w5jlca7dqrvu951ylby4bhx6ajj1&rid=50.webp&ct=s)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&duration=2000&pause=500&width=150&height=150&lines=and)](https://git.io/typing-svg)
-![](https://media0.giphy.com/media/Y34jqOCXhgEsqRLULa/200.webp?cid=ecf05e47lvjydzzv2w83cq5qlyhida3wxrctwbxsxoga5oq6&rid=50.webp&ct=s)
+
 
 <h3 align='center'><em>Remote Full-Stack software developer open for new opportunities</em> <img src="https://media2.giphy.com/media/q1G46i4qCWHrkzZVRp/200w.webp?cid=ecf05e47nstk3fsxwygz3uiv4d0wyon0324u7igqpkuie4cb&rid=200w.webp&ct=s" width="100"/></h3>
 
@@ -80,6 +76,7 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
   <a href="https://discord.gg/fPrdqh3Zfu" alt="Discord" title="Dev Pro Tips Discussion & Support Server">
     <img src="https://img.shields.io/discord/819650821314052106?color=7289DA&logo=discord&logoColor=white&style=for-the-badge"/></a>
 </p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Vitalis%20Software%20engineer&fontSize=50" />
 <!--
 **svitalis123/svitalis123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
