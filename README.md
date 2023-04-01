@@ -15,7 +15,7 @@
 
 <div align='center'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Vitalis%20Mutwiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitalismutwiri/)]([www.linkedin.com/in/vitalismutwiri/](https://www.linkedin.com/in/vitalismutwiri/))
+[![Linkedin Badge](https://img.shields.io/badge/-Vitalis%20Mutwiri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitalismutwiri/)](https://www.linkedin.com/in/vitalismutwiri/)
 [![Twitter Badge](https://img.shields.io/badge/-@WilsonVitalis-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/WilsonVitalis)](https://twitter.com/WilsonVitalis)
 
 </div>
