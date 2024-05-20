@@ -70,7 +70,7 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
 
 ---
  
-<p align="center">You can check out my portfolio <a href="https://relaxed-crisp-41566e.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
+<p align="center">You can check out my portfolio <a href="https://6617057dd990b6575eb93c5b--sweet-lolly-52970c.netlify.app/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
 
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22github+readme+streak+stats+herokuapp%22&type=Code" alt="Users" title="Repo users">
