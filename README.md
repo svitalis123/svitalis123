@@ -64,7 +64,7 @@ const VitalisMutwiri = new Promise((resolve, reject) => {
 
 <div align="center">
   
-[![GitHub Streak](https://streak-stats.demolab.com?user=svitalis123&theme=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=svitalis123&theme=highcontrast)](https://git.io/streak-stats)
 
 </div>
 
